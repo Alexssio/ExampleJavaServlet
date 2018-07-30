@@ -1,2 +1,3 @@
-C:\Users\alessio.chiocchetti\workspace\first-web-application\src\main\java\com\in28minutes\LoginServlet.java
-C:\Users\alessio.chiocchetti\workspace\first-web-application\src\main\java\com\in28minutes\WelcomePage.java
+C:\Users\alessio.chiocchetti\workspace\first-web-application\src\main\java\com\in28minutes\login\LoginService.java
+C:\Users\alessio.chiocchetti\workspace\first-web-application\src\main\java\com\in28minutes\login\LoginServlet.java
+C:\Users\alessio.chiocchetti\workspace\first-web-application\src\main\java\com\in28minutes\login\WelcomeServlet.java

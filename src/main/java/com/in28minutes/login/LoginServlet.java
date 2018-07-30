@@ -15,10 +15,10 @@ public class LoginServlet extends HttpServlet {
 	protected void doGet(HttpServletRequest request,
 			HttpServletResponse response) throws ServletException, IOException {	
 		
-		String attribute = request.getParameter("name");
-		String pass = request.getParameter("password");
-		request.setAttribute("name", attribute);
-		request.setAttribute("password", pass);
+		//String attribute = request.getParameter("name");
+		//String pass = request.getParameter("password");
+		//request.setAttribute("name", attribute);
+		//request.setAttribute("password", pass);
 		request.getRequestDispatcher("/WEB-INF/views/login.jsp").forward(request, response);
 	}
 	protected void doPost(HttpServletRequest request,
